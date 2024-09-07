@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { useSelector } from "react-redux";
 // import ProductComponent from "./ProductComponent";
@@ -30,3 +31,22 @@ function Header(props) {
 }
 
 export default Header;
+=======
+import React from "react";
+// import ProductComponent from "./ProductComponent";
+
+function Header(props) {
+    return (
+        <div className="ui fixed menu">
+
+            <div className="ui container center">
+             <h3>MY E-SHOP</h3>
+             {/* <ProductComponent/> */}
+            </div>
+           
+         </div>);
+}
+
+
+export default Header;
+>>>>>>> 8000d6aefee7ac732088c8e588acff330cae9e04

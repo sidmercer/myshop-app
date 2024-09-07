@@ -2,10 +2,13 @@
   font-family: "Roboto", sans-serif;
   padding: 0;
   margin: 0;
+<<<<<<< HEAD
   text-decoration: none;
 }
 a{
   text-decoration: none;
+=======
+>>>>>>> 8000d6aefee7ac732088c8e588acff330cae9e04
 }
 
 .ui.cards > .card > .image {
@@ -95,6 +98,7 @@ a{
   font-size: 18px;
   margin-left: 0;
 }
+<<<<<<< HEAD
 
 .ui.container.center{
   display: flex;
@@ -288,3 +292,5 @@ a{
 	
 	padding: 60px 0;
 }
+=======
+>>>>>>> 8000d6aefee7ac732088c8e588acff330cae9e04
